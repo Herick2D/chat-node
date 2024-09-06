@@ -36,4 +36,4 @@ Este projeto é uma Prova de Conceito (PoC) para explorar e entender a implement
 
 ## Observações
 
-Este projeto é um material de estudo e foi feito para explorar e testar a viabilidade de WebSockets com recuperação de estado em ambientes de cluster.
+Este projeto foi desenvolvido em um ambiente acadêmico e pode apresentar bugs e comportamentos inesperados. Ele é um material de estudo criado para explorar e testar a viabilidade de WebSockets com recuperação de estado em ambientes de cluster.
