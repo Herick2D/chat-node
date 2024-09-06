@@ -1,4 +1,4 @@
-# WebSocket Chat - Proof of Concept
+# Chat node
 
 Este é um projeto de estudo e teste de serviços WebSocket utilizando **Express**, **Socket.IO**, **SQLite** e **Cluster Adapter**.
 
